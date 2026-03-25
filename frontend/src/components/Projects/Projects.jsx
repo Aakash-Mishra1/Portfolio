@@ -14,7 +14,7 @@ const PROJECTS = [
     github: 'https://github.com/Aakash-Mishra1/Arab-Punjab-Food-Delivery-Website',
     live: '#',
     accent: '#00e5ff',
-    image: '/assests/project1.png',
+    image: '/assets/project1.png',
   },
   {
     num: '02',
@@ -25,7 +25,7 @@ const PROJECTS = [
     github: 'https://github.com/Aakash-Mishra1/Medicare-Medical-Health-care-Portal',
     live: '#',
     accent: '#2979ff',
-    image: '/assests/project2.png',
+    image: '/assets/project2.png',
   },
   {
     num: '03',
@@ -36,7 +36,7 @@ const PROJECTS = [
     github: 'https://github.com/Aakashmishra-1/Chatify',
     live: 'https://chatify-connect.netlify.app/',
     accent: '#651fff',
-    image: '/assests/project3.png',
+    image: '/assets/project3.png',
   },
   {
     num: '04',
@@ -47,7 +47,7 @@ const PROJECTS = [
     github: 'https://github.com/Aakash-Mishra1/E-commerce',
     live: '#',
     accent: '#00e5b3',
-    image: '/assests/project4.png',
+    image: '/assets/project4.png',
   },
 ]
 

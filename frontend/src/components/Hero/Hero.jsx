@@ -218,7 +218,7 @@ export default function Hero() {
                   zIndex:1,
                   background:'var(--bg-1)',
                 }}>
-                <img src="/assests/Profile.jpeg" alt="Profile" className="w-full h-full object-cover rounded-full border-4 border-blue-400 shadow-lg" />
+                <img src="/assets/Profile.jpeg" alt="Profile" className="w-full h-full object-cover rounded-full border-4 border-blue-400 shadow-lg" />
               </div>
 
               {/* floating badges */}

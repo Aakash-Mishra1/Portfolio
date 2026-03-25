@@ -14,7 +14,7 @@ const CERTS = [
     color:   '#f59e0b',
     desc:    'Comprehensive course covering object-oriented programming with Java — classes, inheritance, polymorphism, encapsulation, and abstraction.',
     url:     'https://drive.google.com/file/d/1qTSZzrO_2kJKx1ZCdc3jIQXHT4tAGVRo/view?usp=drive_link',
-    image:   '/assests/certificate1.png',
+    image:   '/assets/certificate1.png',
   },
   {
     title:   'Python towards ML/AI',
@@ -25,7 +25,7 @@ const CERTS = [
     color:   '#3b82f6',
     desc:    'Practical Python course covering fundamentals, NumPy, Pandas, and an introduction to machine learning and AI concepts.',
     url:     'https://drive.google.com/file/d/1FAM9i4pWBEZXLMYN7dg40AdtpcxWdW1n/view?usp=drive_link',
-    image:   '/assests/certificate2.png',
+    image:   '/assets/certificate2.png',
   },
   {
     title:   'HTML, CSS & JavaScript',
@@ -36,7 +36,7 @@ const CERTS = [
     color:   '#00e5ff',
     desc:    'IBM-backed web development course covering modern HTML5, CSS3, and JavaScript — responsive layouts, DOM manipulation, and event-driven programming.',
     url:     'https://drive.google.com/file/d/1ZN48mn6rhnNLNWGFO8DFZQkJyzPWojA1/view?usp=drive_link',
-    image:   '/assests/certificate3.png',
+    image:   '/assets/certificate3.png',
   },
   {
     title:   'Full Stack MERN',
@@ -47,7 +47,7 @@ const CERTS = [
     color:   '#61dafb',
     desc:    'End-to-end MERN stack course: MongoDB, Express.js, React.js, Node.js — RESTful API design, authentication, state management, and deployment.',
     url:     'https://drive.google.com/file/d/1ido3I1a3n-pDCC5m1aLOgtiiOr4qIPeg/view?usp=drive_link',
-    image:   '/assests/certificate4.png',
+    image:   '/assets/certificate4.png',
   },
   {
     title:   'C Programming',
@@ -58,7 +58,7 @@ const CERTS = [
     color:   '#2979ff',
     desc:    'Foundational C programming — pointers, memory management, data structures, and systems-level thinking via IBM and UC Santa Cruz.',
     url:     'https://drive.google.com/file/d/1lLVvW1ze0yj7kgtPQCeflFX55OmuJuTy/view?usp=drive_link',
-    image:   '/assests/certificate5.png',
+    image:   '/assets/certificate5.png',
   },
 ]
 
